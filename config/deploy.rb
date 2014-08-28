@@ -35,7 +35,7 @@ namespace :deploy do
   end
 
   # link shared directories
-  task :create_app_file, :roles => :app do
+  task :create_uploads_, :roles => :app do
     run "ln -s #{shared_path}/uploads #{release_path}/public/uploads"
   end
 
