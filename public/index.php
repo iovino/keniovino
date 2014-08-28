@@ -1,1 +1,1 @@
-<img src="images/logo.gif" alt=""/>
+<img src="images/divups_banner.png" alt=""/>
