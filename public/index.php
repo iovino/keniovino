@@ -1,1 +1,1 @@
-Test
+<img src="images/logo.gif" alt=""/>
